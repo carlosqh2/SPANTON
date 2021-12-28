@@ -1,2 +1,2 @@
 # SPANTON
-why am i doing this all over again? we won't ever find out.
+why am i doing this all over again? i miss python and i particularly hate typescript.
